@@ -82,7 +82,7 @@ data = pd.read_csv('data.csv')
 # Display the first few rows
 print(data.head())
 
-# How to Use
+## How to Use
 Clone the repository:
 git clone https://github.com/yourusername/volunteer-match-analysis.git
 cd volunteer-match-analysis
@@ -92,12 +92,12 @@ Open Jupyter notebooks:
 jupyter notebook
 Navigate to Analysis_partA.ipynb or Analysis_partB.ipynb to explore the analysis.
 
-### Additional Tips
+## Additional Tips
 - Keep image paths relative to the repository root or include the full URL if hosting externally.
 - For larger images or more complex visualizations, consider linking to them rather than embedding them directly.
 - Ensure your tables are not too wide to maintain readability on smaller screens.
 
 By following these guidelines, you can create a well-structured and informative README that includes all necessary visual and textual information.
 
-# Contributing
+## Contributing
 Contributions are welcome! If you have suggestions for improvements or new analyses, please fork the repository and submit a pull request.
